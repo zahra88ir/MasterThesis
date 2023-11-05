@@ -1,0 +1,10 @@
+Datasets can be obtained through the following links:
+
+
+NASA:
+https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset
+
+
+
+CWRU:
+https://www.kaggle.com/datasets/brjapon/cwru-bearing-datasets
